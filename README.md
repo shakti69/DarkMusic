@@ -1,26 +1,22 @@
 <div align="center">
 
-<img src="docs/DarkMusic.webp" alt="DarkMusic Logo" width="128" height="128" />
+<img src="docs/DarkMusic.png" alt="DarkMusic Logo" width="128" height="128" />
 
 # DarkMusic
 
-### *The Audiophile-Grade, Ultra-Responsive Music Player for Android & Windows*
+### *Audiophile-Grade, Ultra-Responsive Music Player for Android & Windows*
 
 [![Latest Release](https://img.shields.io/badge/Release-v1.2.7-E11D48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakti69/DarkMusic/releases/tag/v1.2.7)
-[![Android Compatibility](https://img.shields.io/badge/Android-8.0%2B%20(API%2026%2B)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](DarkMusic.apk?raw=true)
-[![Windows Compatibility](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](DarkMusic-Installer.exe?raw=true)
+[![Android Compatibility](https://img.shields.io/badge/Android-8.0%2B%20(API%2026%2B)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shakti69/DarkMusic/releases/tag/v1.2.7)
+[![Windows Compatibility](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/shakti69/DarkMusic/releases/tag/v1.2.7)
 [![Display Refresh](https://img.shields.io/badge/Refresh%20Rate-60%20%7C%2090%20%7C%20120%20Hz-8B5CF6?style=for-the-badge)](https://github.com/shakti69/DarkMusic)
 [![License](https://img.shields.io/badge/License-GPL--3.0-0ea5e9?style=for-the-badge)](LICENSE)
 
 <br/>
 
 <p align="center">
-  <b>DarkMusic</b> is a high-performance offline & local streaming music player engineered for listeners who care about sound quality, speed, and aesthetics. Built natively with <b>Jetpack Compose</b> for mobile and <b>Wails v3 + Go</b> for desktop, it delivers fluid 120 FPS navigation, real-time synchronized bilingual lyrics, bit-perfect playback, and effortless cross-device library pairing.
+  <b>DarkMusic</b> is a high-performance offline & local streaming music player engineered for listeners who demand pristine audio quality, zero-latency navigation, and sleek aesthetics. Featuring a native <b>Jetpack Compose</b> Android companion and a hardware-accelerated <b>Wails v3 + Go</b> Windows desktop client, DarkMusic delivers fluid 120 FPS scrolling, syllable-level synchronized bilingual lyrics, bit-perfect audio playback, and seamless cross-device library synchronization.
 </p>
-
----
-
-<img src="docs/screenshot-hero-devices.webp" alt="DarkMusic Ecosystem" width="860" />
 
 </div>
 
@@ -28,77 +24,60 @@
 
 ## 📥 Download Center (v1.2.7)
 
-Choose the right build for your platform below. All releases are pre-compiled, self-contained, and ready to use.
+Pre-compiled production binaries are available below:
 
 | Platform | Distribution Package | Description | Binary Size | Download |
 | :--- | :--- | :--- | :---: | :---: |
-| 📱 **Android** | `DarkMusic.apk` | Release APK (Android 8.0 to Android 15)<br/>*Signed, R8-optimized, 120 FPS high-refresh engine* | **`33.7 MB`** | [**Download APK**](DarkMusic.apk?raw=true) |
-| 🖥️ **Windows** | `DarkMusic-Installer.exe` | Windows Setup Installer (x64)<br/>*Auto-installs shortcuts, protocol handler & updater* | **`15.9 MB`** | [**Download Setup**](DarkMusic-Installer.exe?raw=true) |
-| 🧳 **Windows** | `DarkMusic.exe` | Portable Executable (x64)<br/>*Zero installation required, run from USB or any folder* | **`35.8 MB`** | [**Download Portable**](DarkMusic.exe?raw=true) |
-
-> 💡 **Release Tag**: You can also browse release notes and download assets directly from the [GitHub Releases page](https://github.com/shakti69/DarkMusic/releases/tag/v1.2.7).
-
----
-
-## ✨ Features at a Glance
-
-### ⚡ 1. Hyper-Optimized 120 FPS Engine
-- **Zero-Allocation Scroll Pipeline**: Virtualized lists backed by precomputed metadata indices eliminate recomposition churn and GC pauses.
-- **Instantaneous $O(1)$ Search & Sorting**: Filter through libraries with **50,000+ tracks** instantly by title, artist, album, duration, or date added.
-- **Hardware-Accelerated Fluid UI**: Rendered with Jetpack Compose on Android and GPU-accelerated WebKit/Blink on Desktop for silky 60, 90, 120, and 144 Hz display support.
-
-### 🎧 2. Bit-Perfect Audiophile Playback
-- **Native Audio Pipeline**: Low-latency AAudio engine on Android and miniaudio on Windows with full 32-bit floating-point precision.
-- **Gapless Transitions & Equal-Power Crossfade**: Switch tracks seamlessly with true gapless playback or configure smooth crossfades between 1 and 12 seconds.
-- **Loudness Normalization (LUFS)**: Automatic ITU-R BS.1770 / EBU R128 loudness analysis (-14 LUFS target) with built-in anti-clipping limiter.
-- **10-Band Native Equalizer**: Fine-tune your audio output across 10 discrete frequency bands with customizable headphone presets and preamp control.
-
-### 📜 3. Synchronized Bilingual & Karaoke Lyrics
-- **Multi-Tier Lyrics Matching**: Automatically fetches lyrics in priority order: Local `.lrc` / `.txt` files &rarr; Embedded ID3/Vorbis tags &rarr; LRCLIB &rarr; Kugou &rarr; NetEase.
-- **Interactive Karaoke Display**: Follow syllable-level and line-by-line animations with automatic viewport scrolling.
-- **Tap-to-Seek**: Jump directly to any moment in the song by tapping on a lyric line.
-- **Bilingual Translation Support**: Read translations and Romanized phonetics side-by-side with original verses.
-
-### 📲 4. Seamless Wireless Device Synchronization
-- **One-Tap QR Pairing**: Connect your Android phone to your Windows PC over local Wi-Fi by scanning a single QR code.
-- **Bi-Directional Library Sync**: Synchronize songs, high-resolution album artwork, custom playlists, favorites, and play counts without cloud servers or cords.
-- **Local Privacy**: Your personal music collection stays 100% on your local hardware.
-
-### 🌐 5. Local Web Remote Control
-- **Browser-Based Controller**: Turn any smartphone, tablet, or secondary laptop into a wireless remote.
-- **No Extra Apps Needed**: Open the generated local URL (with 4-digit PIN authentication) to control playback, manage queue, inspect tracks, and read lyrics from across the room.
-
-### 📊 6. Listening Insights & Scrobbling
-- **Last.fm Scrobbler**: Native scrobbling with persistent offline cache. Never miss a scrobble even when disconnected.
-- **Detailed Insights Dashboard**: Visualize your listening history, top artists, most played tracks, and total listening time over 7-day, 30-day, or all-time periods.
+| 📱 **Android** | `DarkMusic.apk` | Release APK (Android 8.0 to Android 15)<br/>*Signed, R8-optimized, 120 FPS high-refresh engine* | **`33.7 MB`** | [**Download APK**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk) |
+| 🖥️ **Windows** | `DarkMusic-Installer.exe` | Windows Setup Installer (x64)<br/>*Auto-installs shortcuts, protocol handler & updater* | **`15.9 MB`** | [**Download Setup**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic-Installer.exe) |
+| 🧳 **Windows** | `DarkMusic.exe` | Portable Executable (x64)<br/>*Zero installation required, run from USB or any folder* | **`35.8 MB`** | [**Download Portable**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.exe) |
 
 ---
 
 ## 📸 Interface Preview
 
-<details open>
-<summary><b>Click to expand or collapse high-resolution preview screenshots</b></summary>
-<br/>
+<div align="center">
 
-<table>
-  <tr>
-    <td width="33%"><img src="docs/screenshots/home.webp" alt="Home Dashboard" /><br/><p align="center"><b>Home Dashboard</b><br/><i>Quick mix, recent listens & smart picks</i></p></td>
-    <td width="33%"><img src="docs/screenshots/tracks.webp" alt="Track Library" /><br/><p align="center"><b>Library Explorer</b><br/><i>Fast virtualization with instant sorting</i></p></td>
-    <td width="33%"><img src="docs/screenshots/fullscreen-player-1.webp" alt="Fullscreen Lyrics Player" /><br/><p align="center"><b>Immersive Player</b><br/><i>Dynamic artwork & synchronized lyrics</i></p></td>
-  </tr>
-  <tr>
-    <td width="33%"><img src="docs/screenshots/albums.webp" alt="Albums Grid" /><br/><p align="center"><b>Album Grid</b><br/><i>High-res cached artwork presentation</i></p></td>
-    <td width="33%"><img src="docs/screenshots/artists.webp" alt="Artist Directory" /><br/><p align="center"><b>Artist Directory</b><br/><i>Local artist portraits & discographies</i></p></td>
-    <td width="33%"><img src="docs/screenshots/playlists.webp" alt="Playlists & Mood Radio" /><br/><p align="center"><b>Playlists & Moods</b><br/><i>Smart mixes based on energy & tempo</i></p></td>
-  </tr>
-  <tr>
-    <td width="33%"><img src="docs/screenshots/mini-player-2.webp" alt="Desktop Mini Player" /><br/><p align="center"><b>Desktop Mini Player</b><br/><i>Floating always-on-top compact widget</i></p></td>
-    <td width="33%"><img src="docs/screenshots/remote-1.webp" alt="Web Remote Server" /><br/><p align="center"><b>Web Remote Controller</b><br/><i>Control playback from any browser</i></p></td>
-    <td width="33%"><img src="docs/screenshots/mobiles.webp" alt="Mobile Companion" /><br/><p align="center"><b>Android Companion</b><br/><i>Native Material 3 Expressive UI</i></p></td>
-  </tr>
-</table>
+| Home Dashboard | Track Library | Now Playing | Synced Lyrics |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/mobile_home.webp" width="220" alt="Home Dashboard" /> | <img src="docs/screenshots/mobile_library.webp" width="220" alt="Track Library" /> | <img src="docs/screenshots/mobile_player.webp" width="220" alt="Now Playing Player" /> | <img src="docs/screenshots/mobile_lyrics.webp" width="220" alt="Synced Lyrics" /> |
+| *Personalized feed & quick mix* | *Instant virtualized scrolling* | *High-res artwork & controls* | *Real-time synchronized lines* |
 
-</details>
+</div>
+
+---
+
+## ✨ Features
+
+### ⚡ 1. Hyper-Optimized 120 FPS Engine
+- **Zero-Allocation Scroll Pipeline**: Virtualized lists backed by precomputed metadata indices eliminate recomposition churn and garbage collection spikes.
+- **Instantaneous $O(1)$ Search & Sorting**: Instant filtering across libraries with **50,000+ tracks** by title, artist, album, duration, or date added.
+- **Hardware-Accelerated UI**: Engineered with Jetpack Compose on Android and GPU-accelerated WebKit/Blink on Desktop for smooth 60, 90, 120, and 144 Hz display refresh rates.
+
+### 🎧 2. Bit-Perfect Audiophile Playback
+- **Native Audio Pipeline**: Low-latency AAudio engine on Android and miniaudio on Windows with full 32-bit floating-point precision.
+- **Gapless Transitions & Equal-Power Crossfade**: Switch tracks seamlessly with true gapless playback or configure smooth crossfades between 1 and 12 seconds.
+- **Loudness Normalization (LUFS)**: Automatic ITU-R BS.1770 / EBU R128 loudness analysis (-14 LUFS target) with built-in anti-clipping limiter.
+- **10-Band Native Equalizer**: Fine-tune audio output across 10 discrete frequency bands with customizable headphone presets and preamp control.
+
+### 📜 3. Synchronized Bilingual & Karaoke Lyrics
+- **Multi-Tier Lyrics Matching**: Automatically fetches lyrics in priority order: Local `.lrc` / `.txt` files &rarr; Embedded ID3/Vorbis tags &rarr; LRCLIB &rarr; Kugou &rarr; NetEase.
+- **Interactive Karaoke Display**: Follow syllable-level and line-by-line animations with automatic viewport scrolling.
+- **Tap-to-Seek**: Jump directly to any moment in the song by tapping on a lyric line.
+- **Bilingual Translation Support**: Read translations and phonetics side-by-side with original verses.
+
+### 📲 4. Seamless Wireless Device Synchronization
+- **One-Tap QR Pairing**: Connect your Android device to your Windows PC over local Wi-Fi by scanning a single QR code.
+- **Bi-Directional Library Sync**: Synchronize songs, high-resolution album artwork, custom playlists, favorites, and play counts without cloud servers.
+- **Local Privacy**: Your personal music collection stays 100% on your local hardware.
+
+### 🌐 5. Local Web Remote Control
+- **Browser-Based Controller**: Turn any smartphone, tablet, or secondary computer into a wireless remote.
+- **No Extra Apps Needed**: Open the generated local URL (with 4-digit PIN authentication) to control playback, manage queue, inspect tracks, and read lyrics from across the room.
+
+### 📊 6. Listening Insights & Scrobbling
+- **Last.fm Scrobbler**: Native scrobbling with persistent offline cache. Never miss a scrobble even when disconnected.
+- **Detailed Insights Dashboard**: Visualize listening history, top artists, most played tracks, and total listening time over 7-day, 30-day, or all-time periods.
 
 ---
 
@@ -118,7 +97,7 @@ DarkMusic processes all decoding through high-fidelity native libraries without 
 ## 🛠️ Installation & Setup
 
 ### 📱 Android Setup Guide
-1. **Download APK**: Download [`DarkMusic.apk`](DarkMusic.apk?raw=true).
+1. **Download APK**: Download [`DarkMusic.apk`](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk).
 2. **Install**: Tap the downloaded file. If your browser asks for permission to install apps from this source, enable **Allow from this source**.
 3. **Grant Permissions**:
    - **Audio / Media**: Allows DarkMusic to locate and play your local music files.
@@ -180,7 +159,7 @@ DarkMusic processes all decoding through high-fidelity native libraries without 
 
 ## 🛡️ License & Acknowledgments
 
-- **License**: DarkMusic is free and open-source software licensed under the **[GNU General Public License v3.0 (GPL-3.0)](LICENSE)**.
+- **License**: DarkMusic is licensed under the **[GNU General Public License v3.0 (GPL-3.0)](LICENSE)**.
 - **Audio Engines**: Powered by [FFmpeg](https://ffmpeg.org/), [AAudio](https://developer.android.com/ndk/guides/audio/aaudio/aaudio), and [miniaudio](https://miniaud.io/).
 - **Online Lyrics**: Lyrics integration provided via [LRCLIB](https://lrclib.net/), Kugou, and NetEase APIs.
 - **Scrobbling**: Powered by the [Last.fm](https://www.last.fm/) open API.
