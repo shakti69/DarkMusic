@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/airmedy.webp" alt="DarkMusic Logo" width="100" height="100" />
+<img src="docs/DarkMusic.webp" alt="DarkMusic Logo" width="100" height="100" />
 
 # DarkMusic
 
