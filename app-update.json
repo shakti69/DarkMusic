@@ -1,10 +1,10 @@
 {
-  "versionCode": 24,
-  "versionName": "1.4.8",
+  "versionCode": 25,
+  "versionName": "1.4.9",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.4.8 Release",
-  "changelog": "• Persistent Quick Settings Media Player under notification center (stays active even when app is closed)\n• Completely overhauled Share Lyrics UI: full scrollable lyrics list with pinned bottom action bar\n• True original studio sound in 30s lyrics video (256kbps lossless PCM pipeline, zero robotic artifacts)\n• In-app player identical lyrics typography (50f bold) & AMLL soft-edge wipe karaoke animation",
+  "title": "DarkMusic 1.4.9 Release",
+  "changelog": "• Persistent Quick Settings Media Player under notification center (stays active even when app is closed)\n• Completely overhauled Share Lyrics UI: full scrollable lyrics list with pinned bottom action bar\n• True original studio sound in lyrics video (non-robotic, sample-accurate, natural duration for full lines)\n• Bold & enlarged lyrics typography (58f bold), larger album art thumbnail, and official DarkMusic promotional banner",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "32 MB"
 }
