@@ -1,10 +1,10 @@
 {
-  "versionCode": 23,
-  "versionName": "1.4.7",
+  "versionCode": 24,
+  "versionName": "1.4.8",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.4.7 Release",
-  "changelog": "• Apple Music-grade centered lyrics & song photo cards with vibrant blurred album art\n• Consecutive lyrics selection (up to 5 lines)\n• Synchronized 30s MP4 lyrics video with real song audio track and animated karaoke glow\n• Ultra-crisp rendering & clarity",
+  "title": "DarkMusic 1.4.8 Release",
+  "changelog": "• Persistent Quick Settings Media Player under notification center (stays active even when app is closed)\n• Completely overhauled Share Lyrics UI: full scrollable lyrics list with pinned bottom action bar\n• True original studio sound in 30s lyrics video (256kbps lossless PCM pipeline, zero robotic artifacts)\n• In-app player identical lyrics typography (50f bold) & AMLL soft-edge wipe karaoke animation",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "32 MB"
 }
