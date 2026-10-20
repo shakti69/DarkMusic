@@ -1,10 +1,10 @@
 {
-  "versionCode": 99,
-  "versionName": "2.0.0",
+  "versionCode": 19,
+  "versionName": "1.4.3",
   "minSupportedVersionCode": 18,
   "isMandatory": true,
   "title": "Mandatory Security & Feature Update",
-  "changelog": "• Required major update for DarkMusic (v2.0.0)\n• High-performance Apple Music-style lyrics engine\n• Real-time Indic font shaping & ligature rendering\n• Security patches and stability enhancements",
+  "changelog": "• Required major update for DarkMusic (v1.4.3)\n• Apple Music-style lyrics animation\n• Indic complex script ligatures & matras support\n• In-app updates with mandatory/normal control",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "34 MB"
 }
