@@ -1,10 +1,10 @@
 {
-  "versionCode": 22,
-  "versionName": "1.4.6",
+  "versionCode": 23,
+  "versionName": "1.4.7",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.4.6 Release",
-  "changelog": "• Clean 3-dots Share menu: customizable 'Share song' & 'Share lyrics' sheets\n• 30-second animated word-by-word lyrics video (.mp4) sharing\n• Removed share button from lyrics viewer\n• Background push notifications and local album cover in notification player",
+  "title": "DarkMusic 1.4.7 Release",
+  "changelog": "• Apple Music-grade centered lyrics & song photo cards with vibrant blurred album art\n• Consecutive lyrics selection (up to 5 lines)\n• Synchronized 30s MP4 lyrics video with real song audio track and animated karaoke glow\n• Ultra-crisp rendering & clarity",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "32 MB"
 }
