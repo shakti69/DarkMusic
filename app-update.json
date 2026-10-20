@@ -1,13 +1,13 @@
 {
-  "versionCode": 26,
-  "versionName": "1.5.0",
+  "versionCode": 29,
+  "versionName": "1.5.3",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
   "title": "DarkMusic 1.5.0 Release",
   "changelog": "\u2022 Default 4:3 aspect ratio across Song Share & Lyrics Share (photo cards & animated videos)\n\u2022 Fixed audio distortion in lyrics MP4 videos for Opus/cloud streaming songs (e.g. Espresso) with native 32-bit float PCM to 16-bit studio pipeline\n\u2022 Guaranteed title and artist boundary fitting: long song titles never overflow screen\n\u2022 Removed Lossless Audio tag for ultra-clean luxury card aesthetics",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "32 MB",
-  "latestVersion": "1.5.2",
-  "latestVersionCode": 28,
-  "releaseNotes": "v1.5.2: Removed lyrics from song share, 3-line rolling lyrics in video, authentic DarkMusic logo, persistent song retention across app switch/reopen, eliminated Play Protect scan, dynamic cover-art adaptive theme, and fixed MP4 audio 0.5x reverb bug."
+  "latestVersion": "1.5.3",
+  "latestVersionCode": 29,
+  "releaseNotes": "v1.5.3: Fixed Add to Favorites everywhere (Favorites playlist, full-screen player heart & 3-dots), added instant Toast confirmations, eliminated MP4 lyrics video robotic/slow audio artifacts, removed equalizer/transition/volume from 3-dots."
 }
