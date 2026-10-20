@@ -1,10 +1,10 @@
 {
-  "versionCode": 19,
-  "versionName": "1.4.3",
-  "minSupportedVersionCode": 18,
-  "isMandatory": true,
-  "title": "Mandatory Security & Feature Update",
-  "changelog": "• Required major update for DarkMusic (v1.4.3)\n• Apple Music-style lyrics animation\n• Indic complex script ligatures & matras support\n• In-app updates with mandatory/normal control",
+  "versionCode": 20,
+  "versionName": "1.4.4",
+  "minSupportedVersionCode": 0,
+  "isMandatory": false,
+  "title": "DarkMusic 1.4.4 Release",
+  "changelog": "• App Update Manager & OTA Updates\n• Fixed Maintenance Mode & In-App Announcements\n• Pure English lyrics translation (no Chinese)\n• Rapido & Zomato style rich push notifications",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
-  "apkSize": "34 MB"
+  "apkSize": "33 MB"
 }
