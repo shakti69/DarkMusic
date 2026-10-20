@@ -4,7 +4,10 @@
   "minSupportedVersionCode": 0,
   "isMandatory": false,
   "title": "DarkMusic 1.5.0 Release",
-  "changelog": "• Default 4:3 aspect ratio across Song Share & Lyrics Share (photo cards & animated videos)\n• Fixed audio distortion in lyrics MP4 videos for Opus/cloud streaming songs (e.g. Espresso) with native 32-bit float PCM to 16-bit studio pipeline\n• Guaranteed title and artist boundary fitting: long song titles never overflow screen\n• Removed Lossless Audio tag for ultra-clean luxury card aesthetics",
+  "changelog": "\u2022 Default 4:3 aspect ratio across Song Share & Lyrics Share (photo cards & animated videos)\n\u2022 Fixed audio distortion in lyrics MP4 videos for Opus/cloud streaming songs (e.g. Espresso) with native 32-bit float PCM to 16-bit studio pipeline\n\u2022 Guaranteed title and artist boundary fitting: long song titles never overflow screen\n\u2022 Removed Lossless Audio tag for ultra-clean luxury card aesthetics",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
-  "apkSize": "32 MB"
+  "apkSize": "32 MB",
+  "latestVersion": "1.5.1",
+  "latestVersionCode": 27,
+  "releaseNotes": "v1.5.1: Instant close on mini artwork in lyrics viewer, flicker-free swipe-down dismiss, cleaned 3-dots menu, removed top DarkMusic pill from share lyrics, added animated lyrics to Share Song template gap, and resolved audio pitch/speed/reverb sync issues (e.g. Bairi Piya)."
 }
