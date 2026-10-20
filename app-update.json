@@ -1,10 +1,10 @@
 {
-  "versionCode": 20,
-  "versionName": "1.4.4",
+  "versionCode": 21,
+  "versionName": "1.4.5",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.4.4 Release",
-  "changelog": "• App Update Manager & OTA Updates\n• Fixed Maintenance Mode & In-App Announcements\n• Pure English lyrics translation (no Chinese)\n• Rapido & Zomato style rich push notifications",
+  "title": "DarkMusic 1.4.5 Release",
+  "changelog": "• Apple Music-style lyrics sharing with card templates\n• 30-second word-by-word animated lyrics video (.mp4) sharing\n• Story 9:16 & Square 1:1 liquid mesh share cards\n• Fixed background push notifications when app is closed\n• Removed intrusive in-app bottom toasts/popups",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "33 MB"
 }

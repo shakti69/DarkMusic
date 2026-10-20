@@ -22,13 +22,14 @@
 
 ---
 
-## 📥 Download Center (v1.2.7)
+## 📥 Download Center (v1.4.5)
 
 Pre-compiled production binaries are available below:
 
 | Platform | Distribution Package | Description | Binary Size | Download |
 | :--- | :--- | :--- | :---: | :---: |
-| 📱 **Android** | `DarkMusic.apk` | Release APK (Android 8.0 to Android 15)<br/>*Signed, R8-optimized, 120 FPS high-refresh engine* | **`33.7 MB`** | [**Download APK**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk) |
+| 📱 **Android** | `DarkMusic.apk` | **Latest Official Release** (v1.4.5)<br/>*Signed, R8-optimized, Apple Music lyrics share, OTA updater* | **`33.8 MB`** | [**Download APK**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk) |
+| 📱 **Android** | `DarkMusic-Universal.apk` | **Full Universal Standalone App** (v1.4.5)<br/>*Complete standalone package with all native libraries bundled* | **`86.9 MB`** | [**Download Full APK**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic-Universal.apk) |
 | 🖥️ **Windows** | `DarkMusic-Installer.exe` | Windows Setup Installer (x64)<br/>*Auto-installs shortcuts, protocol handler & updater* | **`15.9 MB`** | [**Download Setup**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic-Installer.exe) |
 | 🧳 **Windows** | `DarkMusic.exe` | Portable Executable (x64)<br/>*Zero installation required, run from USB or any folder* | **`35.8 MB`** | [**Download Portable**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.exe) |
 
