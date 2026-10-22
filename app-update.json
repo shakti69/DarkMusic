@@ -1,13 +1,13 @@
 {
-  "versionCode": 33,
-  "versionName": "1.5.7",
+  "versionCode": 34,
+  "versionName": "1.5.8",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
   "title": "DarkMusic 1.5.0 Release",
   "changelog": "\u2022 Default 4:3 aspect ratio across Song Share & Lyrics Share (photo cards & animated videos)\n\u2022 Fixed audio distortion in lyrics MP4 videos for Opus/cloud streaming songs (e.g. Espresso) with native 32-bit float PCM to 16-bit studio pipeline\n\u2022 Guaranteed title and artist boundary fitting: long song titles never overflow screen\n\u2022 Removed Lossless Audio tag for ultra-clean luxury card aesthetics",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "32 MB",
-  "latestVersion": "1.5.5",
-  "latestVersionCode": 31,
-  "releaseNotes": "Fix duplicate song and album occurrences across Home screen and Search by unifying local and online tracks under strict canonical deduplication."
+  "latestVersion": "1.5.8",
+  "latestVersionCode": 34,
+  "releaseNotes": "v1.5.8: Fixed 'problem parsing package' error during in-app update. Broadened compatibility to Android 8.0+ (API 26+), enabled v1/v2/v3 APK signing, moved updates to public external files directory with verified integrity checks."
 }
