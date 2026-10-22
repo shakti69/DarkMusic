@@ -1,13 +1,13 @@
 {
-  "versionCode": 29,
-  "versionName": "1.5.3",
+  "versionCode": 30,
+  "versionName": "1.5.4",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
   "title": "DarkMusic 1.5.0 Release",
   "changelog": "\u2022 Default 4:3 aspect ratio across Song Share & Lyrics Share (photo cards & animated videos)\n\u2022 Fixed audio distortion in lyrics MP4 videos for Opus/cloud streaming songs (e.g. Espresso) with native 32-bit float PCM to 16-bit studio pipeline\n\u2022 Guaranteed title and artist boundary fitting: long song titles never overflow screen\n\u2022 Removed Lossless Audio tag for ultra-clean luxury card aesthetics",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "32 MB",
-  "latestVersion": "1.5.3",
-  "latestVersionCode": 29,
-  "releaseNotes": "v1.5.3: Fixed Add to Favorites everywhere (Favorites playlist, full-screen player heart & 3-dots), added instant Toast confirmations, eliminated MP4 lyrics video robotic/slow audio artifacts, removed equalizer/transition/volume from 3-dots."
+  "latestVersion": "1.5.4",
+  "latestVersionCode": 30,
+  "releaseNotes": "v1.5.4: Fixed random mid-playback crashes by preventing Android Binder TransactionTooLargeException during artwork metadata sync, added isolated CoroutineExceptionHandlers to background audio and playback services, unblocked app lifecycle teardown, and added persistent crash diagnostics to latest_crash.txt."
 }
