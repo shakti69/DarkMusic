@@ -1,13 +1,13 @@
 {
-  "versionCode": 30,
-  "versionName": "1.5.4",
+  "versionCode": 31,
+  "versionName": "1.5.5",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
   "title": "DarkMusic 1.5.0 Release",
   "changelog": "\u2022 Default 4:3 aspect ratio across Song Share & Lyrics Share (photo cards & animated videos)\n\u2022 Fixed audio distortion in lyrics MP4 videos for Opus/cloud streaming songs (e.g. Espresso) with native 32-bit float PCM to 16-bit studio pipeline\n\u2022 Guaranteed title and artist boundary fitting: long song titles never overflow screen\n\u2022 Removed Lossless Audio tag for ultra-clean luxury card aesthetics",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "32 MB",
-  "latestVersion": "1.5.4",
-  "latestVersionCode": 30,
-  "releaseNotes": "v1.5.4: Fixed random mid-playback crashes by preventing Android Binder TransactionTooLargeException during artwork metadata sync, added isolated CoroutineExceptionHandlers to background audio and playback services, unblocked app lifecycle teardown, and added persistent crash diagnostics to latest_crash.txt."
+  "latestVersion": "1.5.5",
+  "latestVersionCode": 31,
+  "releaseNotes": "v1.5.5: Fixed ForegroundServiceDidNotStartInTimeException by ensuring immediate startForeground() in onStartCommand and routing in-app commands to standard service dispatch."
 }
