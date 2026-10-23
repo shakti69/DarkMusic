@@ -1,13 +1,13 @@
 {
-  "versionCode": 38,
-  "versionName": "1.5.12",
+  "versionCode": 39,
+  "versionName": "1.5.13",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
   "title": "DarkMusic 1.5.0 Release",
   "changelog": "\u2022 Default 4:3 aspect ratio across Song Share & Lyrics Share (photo cards & animated videos)\n\u2022 Fixed audio distortion in lyrics MP4 videos for Opus/cloud streaming songs (e.g. Espresso) with native 32-bit float PCM to 16-bit studio pipeline\n\u2022 Guaranteed title and artist boundary fitting: long song titles never overflow screen\n\u2022 Removed Lossless Audio tag for ultra-clean luxury card aesthetics",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "32 MB",
-  "latestVersion": "1.5.12",
-  "latestVersionCode": 38,
-  "releaseNotes": "v1.5.12: Accurate Insights Audio Sources breakdown (Local, Cloud, Both), 2nd tap on Search button instantly focuses search & opens keyboard, and automatic 6-hour personalization backup with size protection (never overwrites larger historical backup)."
+  "latestVersion": "1.5.13",
+  "latestVersionCode": 39,
+  "releaseNotes": "v1.5.13: Fix auto-closing when clicking on artists and albums (eliminated LazyColumn duplicate key collisions, guarded against empty/blank IDs, and hardened hardware bitmap color extraction)."
 }
