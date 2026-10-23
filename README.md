@@ -39,10 +39,10 @@ Pre-compiled production binaries are available below:
 
 <div align="center">
 
-| Home Dashboard | Track Library | Now Playing | Synced Lyrics |
-| :---: | :---: | :---: | :---: |
-| <img src="docs/screenshots/mobile_home.webp" width="220" alt="Home Dashboard" /> | <img src="docs/screenshots/mobile_library.webp" width="220" alt="Track Library" /> | <img src="docs/screenshots/mobile_player.webp" width="220" alt="Now Playing Player" /> | <img src="docs/screenshots/mobile_lyrics.webp" width="220" alt="Synced Lyrics" /> |
-| *Personalized mix & recent tracks* | *Instant search & $O(N)$ dedup* | *Dynamic theme & audio controls* | *Karaoke sync & tap-to-seek* |
+| Home Dashboard | Track Library | Now Playing | Synced Lyrics | Listening Insights |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/mobile_home.webp" width="180" alt="Home Dashboard" /> | <img src="docs/screenshots/mobile_library.webp" width="180" alt="Track Library" /> | <img src="docs/screenshots/mobile_player.webp" width="180" alt="Now Playing Player" /> | <img src="docs/screenshots/mobile_lyrics.webp" width="180" alt="Synced Lyrics" /> | <img src="docs/screenshots/mobile_insights.webp" width="180" alt="Listening Insights" /> |
+| *Personalized mix & recent tracks* | *Smart collections & local folders* | *Hi-Res Lossless & dynamic theme* | *Real-time karaoke & tap-to-seek* | *7-day history & playback stats* |
 
 </div>
 
