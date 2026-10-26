@@ -1,13 +1,13 @@
 {
-  "versionCode": 42,
-  "versionName": "1.5.16",
+  "versionCode": 43,
+  "versionName": "1.5.17",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.5.0 Release",
-  "changelog": "\u2022 Default 4:3 aspect ratio across Song Share & Lyrics Share (photo cards & animated videos)\n\u2022 Fixed audio distortion in lyrics MP4 videos for Opus/cloud streaming songs (e.g. Espresso) with native 32-bit float PCM to 16-bit studio pipeline\n\u2022 Guaranteed title and artist boundary fitting: long song titles never overflow screen\n\u2022 Removed Lossless Audio tag for ultra-clean luxury card aesthetics",
+  "title": "DarkMusic 1.5.17 Release",
+  "changelog": "\u2022 Apple Music Dynamic Background: Fluid animated cover-reactive background on the now-playing screen.\n\u2022 Instant Favorite Star: Tapping the star in the player immediately adds/removes favorites with zero lag.\n\u2022 HD Notification Controls: High-definition notification artwork, plus instant Star and Shuffle buttons in the notification bar.\n\u2022 Smooth & Natural Lyrics Scrolling: Free scrolling without accidental line clicks or phantom overlapping shadows.\n\u2022 Progressive Lyrics Blur: Sharp readable upcoming line with matching contrast, followed by gentle progressive blur.\n\u2022 Vocal Glow with Gentle Vibration: Sustained vocal notes glow and gently vibrate without zoom distortion, preserving Hindi and all fonts.",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
-  "apkSize": "32 MB",
-  "latestVersion": "1.5.16",
-  "latestVersionCode": 42,
-  "releaseNotes": "v1.5.16: Home screen Downloads section (dynamic top Downloads when offline, between Songs and Artists when online), strict offline mode (hides cloud-only music), local/vault playback priority, pull-to-refresh on Home with instant online/offline detection, Settings->Downloads crash fix, and mini player full artwork rendering fix."
+  "apkSize": "28.9 MB",
+  "latestVersion": "1.5.17",
+  "latestVersionCode": 43,
+  "releaseNotes": "v1.5.17: Apple Music animated background, instant favorite star, HD notification art with Star & Shuffle buttons, smooth lyrics scrolling, progressive blur, and sustained vocal glow with gentle vibration."
 }
