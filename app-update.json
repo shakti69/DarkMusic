@@ -1,13 +1,13 @@
 {
-  "versionCode": 43,
-  "versionName": "1.5.17",
+  "versionCode": 44,
+  "versionName": "1.5.18",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.5.17 Release",
-  "changelog": "\u2022 Apple Music Dynamic Background: Fluid animated cover-reactive background on the now-playing screen.\n\u2022 Instant Favorite Star: Tapping the star in the player immediately adds/removes favorites with zero lag.\n\u2022 HD Notification Controls: High-definition notification artwork, plus instant Star and Shuffle buttons in the notification bar.\n\u2022 Smooth & Natural Lyrics Scrolling: Free scrolling without accidental line clicks or phantom overlapping shadows.\n\u2022 Progressive Lyrics Blur: Sharp readable upcoming line with matching contrast, followed by gentle progressive blur.\n\u2022 Vocal Glow with Gentle Vibration: Sustained vocal notes glow and gently vibrate without zoom distortion, preserving Hindi and all fonts.",
+  "title": "DarkMusic 1.5.18 Release",
+  "changelog": "\u2022 Apple Music Dynamic Background: Fluid edge-fade AGSL shader fixes black corner and border artifacts on Android 13+ devices.\n\u2022 Edge Clamping & Smoothness: Seamless background blur wrapping across all tall screen aspect ratios.\n\u2022 Instant Favorite Star: Tapping the star in the player immediately adds/removes favorites with zero lag.\n\u2022 HD Notification Controls: High-definition notification artwork, plus instant Star and Shuffle buttons in the notification bar.\n\u2022 Smooth & Natural Lyrics Scrolling: Free scrolling without accidental line clicks or phantom overlapping shadows.\n\u2022 Progressive Lyrics Blur & Vocal Glow: Sharp readable upcoming lyrics with matching contrast and gentle vibration glow for sustained words.",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "28.9 MB",
-  "latestVersion": "1.5.17",
-  "latestVersionCode": 43,
-  "releaseNotes": "v1.5.17: Apple Music animated background, instant favorite star, HD notification art with Star & Shuffle buttons, smooth lyrics scrolling, progressive blur, and sustained vocal glow with gentle vibration."
+  "latestVersion": "1.5.18",
+  "latestVersionCode": 44,
+  "releaseNotes": "v1.5.18: Fixed animated black border/bottom spots on Android 13+ devices in Apple Music background, plus refined edge blur clamping."
 }
