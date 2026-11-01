@@ -1,13 +1,13 @@
 {
-  "versionCode": 44,
-  "versionName": "1.5.18",
+  "versionCode": 45,
+  "versionName": "1.5.19",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.5.18 Release",
-  "changelog": "\u2022 Apple Music Dynamic Background: Fluid edge-fade AGSL shader fixes black corner and border artifacts on Android 13+ devices.\n\u2022 Edge Clamping & Smoothness: Seamless background blur wrapping across all tall screen aspect ratios.\n\u2022 Instant Favorite Star: Tapping the star in the player immediately adds/removes favorites with zero lag.\n\u2022 HD Notification Controls: High-definition notification artwork, plus instant Star and Shuffle buttons in the notification bar.\n\u2022 Smooth & Natural Lyrics Scrolling: Free scrolling without accidental line clicks or phantom overlapping shadows.\n\u2022 Progressive Lyrics Blur & Vocal Glow: Sharp readable upcoming lyrics with matching contrast and gentle vibration glow for sustained words.",
+  "title": "DarkMusic 1.5.19 Release",
+  "changelog": "• New Lossless Server: Fully migrated to high-speed reactivated Oracle server (130.210.50.47).\n• True 24-Bit Hi-Res Audio: Sample-format detection fix for pure 24-bit studio playback.\n• Cover Artwork: Full high-resolution cover artwork restored for all tracks.\n• Offline Mode Toggle: Dedicated Go Offline / Go Online switch added in header menu.\n• UI Refinements: Snug header settings gear layout.",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
-  "apkSize": "28.9 MB",
-  "latestVersion": "1.5.18",
-  "latestVersionCode": 44,
-  "releaseNotes": "v1.5.18: Fixed animated black border/bottom spots on Android 13+ devices in Apple Music background, plus refined edge blur clamping."
+  "apkSize": "29.2 MB",
+  "latestVersion": "1.5.19",
+  "latestVersionCode": 45,
+  "releaseNotes": "v1.5.19: Reactivated cloud server migration (130.210.50.47), true 24-bit hi-res audio & cover artwork fixes, offline toggle, and snug header layout."
 }
