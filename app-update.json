@@ -1,13 +1,13 @@
 {
-  "versionCode": 45,
-  "versionName": "1.5.19",
+  "versionCode": 46,
+  "versionName": "1.5.20",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.5.19 Release",
-  "changelog": "• New Lossless Server: Fully migrated to high-speed reactivated Oracle server (130.210.50.47).\n• True 24-Bit Hi-Res Audio: Sample-format detection fix for pure 24-bit studio playback.\n• Cover Artwork: Full high-resolution cover artwork restored for all tracks.\n• Offline Mode Toggle: Dedicated Go Offline / Go Online switch added in header menu.\n• UI Refinements: Snug header settings gear layout.",
+  "title": "DarkMusic 1.5.20 Release",
+  "changelog": "• Pure AMOLED Black Theme: Deep pure black (#000000) styling applied globally across screens, navigation, dialogs, and components while preserving the vibrant dynamic blurred player.\n• Smooth 120Hz Lyrics Scrolling: Ultra-smooth spring-based tracking animation across all visible lyric lines with natural eye tracking.\n• 50% Ended Lyrics Peek: Ended lyric line rests anchored showing its bottom 50% at the top with active lyric immediately below.\n• Matched Lyrics Line Spacing: Active flowing lyrics match inactive line spacing precisely.\n• Resolution-Accurate Audio Badges: Standard Lossless (16-bit/44.1kHz CD), Lossless (16/48, 24/44.1, 24/48), and Hi-Res Lossless (24/96, 24/176.4, 24/192 kHz).\n• Capsule Navigation Bar: Refined floating capsule navigation bar and mini player styling.",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "29.2 MB",
-  "latestVersion": "1.5.19",
-  "latestVersionCode": 45,
-  "releaseNotes": "v1.5.19: Reactivated cloud server migration (130.210.50.47), true 24-bit hi-res audio & cover artwork fixes, offline toggle, and snug header layout."
+  "latestVersion": "1.5.20",
+  "latestVersionCode": 46,
+  "releaseNotes": "v1.5.20: Pure AMOLED black theme, smooth 120Hz lyrics tracking, 50% top ended lyrics peek, matched lyrics line spacing, resolution-accurate audio badges, and capsule navigation."
 }
