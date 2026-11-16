@@ -1,13 +1,13 @@
 {
-  "versionCode": 46,
-  "versionName": "1.5.20",
+  "versionCode": 47,
+  "versionName": "1.5.21",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.5.20 Release",
-  "changelog": "• Pure AMOLED Black Theme: Deep pure black (#000000) styling applied globally across screens, navigation, dialogs, and components while preserving the vibrant dynamic blurred player.\n• Smooth 120Hz Lyrics Scrolling: Ultra-smooth spring-based tracking animation across all visible lyric lines with natural eye tracking.\n• 50% Ended Lyrics Peek: Ended lyric line rests anchored showing its bottom 50% at the top with active lyric immediately below.\n• Matched Lyrics Line Spacing: Active flowing lyrics match inactive line spacing precisely.\n• Resolution-Accurate Audio Badges: Standard Lossless (16-bit/44.1kHz CD), Lossless (16/48, 24/44.1, 24/48), and Hi-Res Lossless (24/96, 24/176.4, 24/192 kHz).\n• Capsule Navigation Bar: Refined floating capsule navigation bar and mini player styling.",
+  "title": "DarkMusic 1.5.21 (Beta)",
+  "changelog": "• Beta Release: Smooth Train Pull scroll lyrics animation across all visible lines (from top to bottom) with elastic spring cascade.\n• Particle Dissolve Animation: Controls dissolve into drifting micro-particles when mini lyrics expands into fullscreen lyrics view.\n• Pure AMOLED Black Theme across all screens and components.\n• Top Ended Lyric Peek: 50% bottom preview anchored at top edge.\n• Matched Line Spacing: Active and inactive lyrics line-height matched.\n• Silent Update: Available on-demand when checked manually in Settings > About.",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "29.2 MB",
-  "latestVersion": "1.5.20",
-  "latestVersionCode": 46,
-  "releaseNotes": "v1.5.20: Pure AMOLED black theme, smooth 120Hz lyrics tracking, 50% top ended lyrics peek, matched lyrics line spacing, resolution-accurate audio badges, and capsule navigation."
+  "latestVersion": "1.5.21",
+  "latestVersionCode": 47,
+  "releaseNotes": "v1.5.21 (Beta): Train Pull scroll lyrics animation across all visible lines, Particle Dissolve mini-to-fullscreen lyrics transition, pure AMOLED theme, and silent on-demand updates."
 }
