@@ -1,14 +1,14 @@
 {
-  "versionCode": 50,
-  "versionName": "1.5.24",
+  "versionCode": 51,
+  "versionName": "1.5.25",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.5.24 Release",
-  "changelog": "• Unified & Robust Most Played Ranking: Synchronized Most Played ranking between Home, Library, and Insights based strictly on actual listening duration and plays.\n• Audio Quality Badge Refinement: Clean \"Standard Lossless\" badge without redundant CD quality text.\n• Greyish Surface Accents: Mini player and floating navbar now feature sleek greyish surfaces on AMOLED mode to prevent camouflaging into pure black.\n• Bold Navigation Bar: Increased navbar height, bold destination labels, and bold icons for enhanced readability.\n• Pull-to-Refresh Dual Sync: Pulling down to refresh now triggers both full local media scanning and cloud catalog synchronization.\n• Smooth Search Input: Fixed cursor position jumping in library search fields.\n• Matched Lyrics Line Spacing: Aligned active and inactive lyrics line spacing for seamless vertical alignment.",
+  "title": "DarkMusic 1.5.25 Release",
+  "changelog": "• Consistent Lyrics Shape & Length: Active and inactive lyrics now share identical word-wrapped layout to eliminate popping, jumping, and line re-wrapping.\n• Randomized Top 30 Most Played: Home screen Most Played now presents your top 30 favorite tracks in a fresh randomized order without rank badges.\n• Home Layout Refinement: Downloaded Songs section is now positioned directly beneath the Artists section.\n• Search Bar Stability: Fixed input dropping and cursor position jumping when searching in the track library.",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "29.2 MB",
-  "sha256": "59d2b041b6d6cb4d61911ee7d0afa9b54c71a26bae0e4e35596cc355d387a4f2",
-  "latestVersion": "1.5.24",
-  "latestVersionCode": 50,
-  "releaseNotes": "v1.5.24: Unified most played analytics, greyish AMOLED navigation surfaces, bold navbar styling, dual pull-to-refresh sync, and lyrics line space matching."
+  "sha256": "2ad621a83c48e0399812a723e5c786eb39349d8e13c37d32a0a29c7c21ec9454",
+  "latestVersion": "1.5.25",
+  "latestVersionCode": 51,
+  "releaseNotes": "v1.5.25: Consistent lyrics shape and wrapping, randomized top 30 most played, downloaded songs reordering, and search input stability."
 }
