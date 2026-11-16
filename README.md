@@ -6,9 +6,9 @@
 
 ### *Audiophile-Grade, Ultra-Responsive Music Player for Android & Windows*
 
-[![Latest Release](https://img.shields.io/badge/Release-v1.5.21-E11D48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakti69/DarkMusic/releases/tag/v1.5.21)
-[![Android Compatibility](https://img.shields.io/badge/Android-8.0%2B%20(API%2026%2B)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shakti69/DarkMusic/releases/tag/v1.5.21)
-[![Windows Compatibility](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/shakti69/DarkMusic/releases/tag/v1.5.21)
+[![Latest Release](https://img.shields.io/badge/Release-v1.5.22-E11D48?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakti69/DarkMusic/releases/tag/v1.5.22)
+[![Android Compatibility](https://img.shields.io/badge/Android-8.0%2B%20(API%2026%2B)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/shakti69/DarkMusic/releases/tag/v1.5.22)
+[![Windows Compatibility](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/shakti69/DarkMusic/releases/tag/v1.5.22)
 [![Display Refresh](https://img.shields.io/badge/Refresh%20Rate-60%20%7C%2090%20%7C%20120%20Hz-8B5CF6?style=for-the-badge)](https://github.com/shakti69/DarkMusic)
 [![License](https://img.shields.io/badge/License-GPL--3.0-0ea5e9?style=for-the-badge)](LICENSE)
 
@@ -22,13 +22,13 @@
 
 ---
 
-## 📥 Download Center (v1.5.21)
+## 📥 Download Center (v1.5.22)
 
 Pre-compiled production binaries are available below:
 
 | Platform | Distribution Package | Description | Binary Size | Download |
 | :--- | :--- | :--- | :---: | :---: |
-| 📱 **Android** | `DarkMusic.apk` | **Latest Official Release** (v1.5.21)<br/>*Signed, Pure AMOLED Black theme, 120Hz smooth lyrics, resolution-accurate audio badges, OTA updater* | **`29.2 MB`** | [**Download APK**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk) |
+| 📱 **Android** | `DarkMusic.apk` | **Latest Official Release** (v1.5.22)<br/>*Signed, Pure AMOLED Black theme, 120Hz smooth lyrics, resolution-accurate audio badges, OTA updater* | **`29.2 MB`** | [**Download APK**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk) |
 | 📱 **Android** | `DarkMusic-Universal.apk` | **Full Universal Standalone App** (v1.5.11)<br/>*Complete standalone package with all native ABIs bundled (arm64, armv7, x86_64)* | **`86.9 MB`** | [**Download Full APK**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic-Universal.apk) |
 | 🖥️ **Windows** | `DarkMusic-Installer.exe` | Windows Setup Installer (x64)<br/>*Auto-installs shortcuts, protocol handler & updater* | **`15.9 MB`** | [**Download Setup**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic-Installer.exe) |
 | 🧳 **Windows** | `DarkMusic.exe` | Portable Executable (x64)<br/>*Zero installation required, run from USB or any folder* | **`35.8 MB`** | [**Download Portable**](https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.exe) |
