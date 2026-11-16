@@ -1,14 +1,14 @@
 {
-  "versionCode": 49,
-  "versionName": "1.5.23",
+  "versionCode": 50,
+  "versionName": "1.5.24",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.5.23 Release",
-  "changelog": "• Accurate Play Count & Most Played: Real-time play count tracking across playback, gapless transitions, and intelligence analytics; Most Played section strictly reflects actual listening history.\n• Sleek Capsule Navigation & Mini Player: Reduced height and refined corner radius for a more compact and elegant floating capsule bar.\n• 7-Tier Prioritized Homepage: Jump Back In, Recently Played, Most Played, Songs, Recently Added, Downloads, and Browse Your Collection.\n• Pure AMOLED Black Theme: Preserves pure black contrast across the app.\n• 120Hz Lyrics Scrolling & Top 50% Anchor: Ultra-smooth synced lyrics with top-anchored ended lyrics.\n• Silent Update: Available on-demand when checked manually in Settings > About.",
+  "title": "DarkMusic 1.5.24 Release",
+  "changelog": "• Unified & Robust Most Played Ranking: Synchronized Most Played ranking between Home, Library, and Insights based strictly on actual listening duration and plays.\n• Audio Quality Badge Refinement: Clean \"Standard Lossless\" badge without redundant CD quality text.\n• Greyish Surface Accents: Mini player and floating navbar now feature sleek greyish surfaces on AMOLED mode to prevent camouflaging into pure black.\n• Bold Navigation Bar: Increased navbar height, bold destination labels, and bold icons for enhanced readability.\n• Pull-to-Refresh Dual Sync: Pulling down to refresh now triggers both full local media scanning and cloud catalog synchronization.\n• Smooth Search Input: Fixed cursor position jumping in library search fields.\n• Matched Lyrics Line Spacing: Aligned active and inactive lyrics line spacing for seamless vertical alignment.",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "29.2 MB",
-  "sha256": "29cb5d6c99bbb2988effa1fd4cb291dc70ffb2e06966572650f108db1b816379",
-  "latestVersion": "1.5.23",
-  "latestVersionCode": 49,
-  "releaseNotes": "v1.5.23: Accurate play count & most played tracking, compact capsule navigation & mini player, and 7-tier prioritized homepage hierarchy."
+  "sha256": "59d2b041b6d6cb4d61911ee7d0afa9b54c71a26bae0e4e35596cc355d387a4f2",
+  "latestVersion": "1.5.24",
+  "latestVersionCode": 50,
+  "releaseNotes": "v1.5.24: Unified most played analytics, greyish AMOLED navigation surfaces, bold navbar styling, dual pull-to-refresh sync, and lyrics line space matching."
 }
