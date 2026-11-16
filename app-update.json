@@ -1,13 +1,14 @@
 {
-  "versionCode": 48,
-  "versionName": "1.5.22",
+  "versionCode": 49,
+  "versionName": "1.5.23",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.5.22 Release",
-  "changelog": "• Pure AMOLED Black Theme: Deep pure black (#000000) styling applied globally across screens, navigation, dialogs, and components while preserving the vibrant dynamic blurred player.\n• Smooth 120Hz Lyrics Scrolling: Ultra-smooth spring-based tracking animation with natural eye tracking.\n• 50% Ended Lyrics Peek: Ended lyric line rests anchored showing its bottom 50% at the top with active lyric immediately below.\n• Matched Lyrics Line Spacing: Active flowing lyrics match inactive line spacing precisely.\n• Resolution-Accurate Audio Badges: Standard Lossless (16-bit/44.1kHz CD), Lossless (16/48, 24/44.1, 24/48), and Hi-Res Lossless (24/96, 24/176.4, 24/192 kHz).\n• Capsule Navigation Bar: Refined floating capsule navigation bar and mini player styling.\n• Silent Update: Available on-demand when checked manually in Settings > About.",
+  "title": "DarkMusic 1.5.23 Release",
+  "changelog": "• Accurate Play Count & Most Played: Real-time play count tracking across playback, gapless transitions, and intelligence analytics; Most Played section strictly reflects actual listening history.\n• Sleek Capsule Navigation & Mini Player: Reduced height and refined corner radius for a more compact and elegant floating capsule bar.\n• 7-Tier Prioritized Homepage: Jump Back In, Recently Played, Most Played, Songs, Recently Added, Downloads, and Browse Your Collection.\n• Pure AMOLED Black Theme: Preserves pure black contrast across the app.\n• 120Hz Lyrics Scrolling & Top 50% Anchor: Ultra-smooth synced lyrics with top-anchored ended lyrics.\n• Silent Update: Available on-demand when checked manually in Settings > About.",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "29.2 MB",
-  "latestVersion": "1.5.22",
-  "latestVersionCode": 48,
-  "releaseNotes": "v1.5.22: Pure AMOLED black theme, smooth 120Hz lyrics tracking, 50% top ended lyrics peek, matched lyrics line spacing, resolution-accurate audio badges, capsule navigation, and silent on-demand updates."
+  "sha256": "29cb5d6c99bbb2988effa1fd4cb291dc70ffb2e06966572650f108db1b816379",
+  "latestVersion": "1.5.23",
+  "latestVersionCode": 49,
+  "releaseNotes": "v1.5.23: Accurate play count & most played tracking, compact capsule navigation & mini player, and 7-tier prioritized homepage hierarchy."
 }
