@@ -1,14 +1,14 @@
 {
-  "versionCode": 51,
-  "versionName": "1.5.25",
+  "versionCode": 52,
+  "versionName": "1.5.26",
   "minSupportedVersionCode": 0,
   "isMandatory": false,
-  "title": "DarkMusic 1.5.25 Release",
-  "changelog": "• Consistent Lyrics Shape & Length: Active and inactive lyrics now share identical word-wrapped layout to eliminate popping, jumping, and line re-wrapping.\n• Randomized Top 30 Most Played: Home screen Most Played now presents your top 30 favorite tracks in a fresh randomized order without rank badges.\n• Home Layout Refinement: Downloaded Songs section is now positioned directly beneath the Artists section.\n• Search Bar Stability: Fixed input dropping and cursor position jumping when searching in the track library.",
+  "title": "DarkMusic 1.5.26 Release",
+  "changelog": "\u2022 Bold Sans-Serif Section Typography: Scaled up font size to 25.5sp with Apple Music SF Pro bold sans-serif across all section headers and greeting.\\n\u2022 Modern Library Navigation Icon: Redesigned the navigation bar Library icon with a clean, authentic books/library collection symbol without music notes.\\n\u2022 Session-Persistent Most Played Order: Randomized top 30 tracks remain rock-solid throughout your session and only re-randomize when closing and reopening the app.\\n\u2022 Liquid Glass Navigation Bar: Transparent frosted backdrop blur with specular light rim and clean outlined/filled icon states.",
   "downloadUrl": "https://github.com/shakti69/DarkMusic/raw/main/DarkMusic.apk",
   "apkSize": "29.2 MB",
-  "sha256": "2ad621a83c48e0399812a723e5c786eb39349d8e13c37d32a0a29c7c21ec9454",
-  "latestVersion": "1.5.25",
-  "latestVersionCode": 51,
-  "releaseNotes": "v1.5.25: Consistent lyrics shape and wrapping, randomized top 30 most played, downloaded songs reordering, and search input stability."
+  "sha256": "d6b64467933b10b07015cc367e8969460c7a9dd1a5e96dc84a443f01f5e87c4f",
+  "latestVersion": "1.5.26",
+  "latestVersionCode": 52,
+  "releaseNotes": "v1.5.26: Enlarged bold sans-serif headings, fresh Library navigation icon, rock-solid session-persistent Most Played order, and frosted liquid glass navigation bar."
 }
